@@ -1,0 +1,6 @@
+{
+  "name": "Binder Jetting (BJ) Technical Monograph & Engineering Simulator",
+  "description": "An interactive technical review and industrial engineering dossier on Binder Jetting (ISO/ASTM 52900) additive manufacturing: process mechanics, qualified materials, sintering physics, industrial applications, strengths vs. limitations, and future factory integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
